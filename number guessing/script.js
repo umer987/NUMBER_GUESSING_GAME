@@ -34,34 +34,6 @@ const resultDisplay = document.querySelector(".iii");
 
 
 
-
-
-// // let right_number= 10
-// // let user_number=prompt("GUESS THE NUMBER ")
-
-// // while (user_number != right_number ) {
-// //     user_number=prompt("WRONG!!! TRY AGAIN")
-// // }
-
-
-
-
-// // alert("CONGRALUATION YOU GUESS THE RIGHT NUMBER " , right_number)
-
-
-
-
-
-
-
-
-
-
-// // while (user_number != right_number) {
-// //   user_number =  prompt("YOU ENTERED WRONG NUMBER GUESS AGAIN ")
-// // }   
-
-
 // // alert("CONGRALUATION YOU GUESS THE RIGHT NUMBER " , right_number)
 
 
