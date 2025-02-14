@@ -34,10 +34,6 @@ const resultDisplay = document.querySelector(".iii");
 
 
 
-// // alert("CONGRALUATION YOU GUESS THE RIGHT NUMBER " , right_number)
-
-
-
 
 
 
