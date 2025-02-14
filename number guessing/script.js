@@ -1,19 +1,3 @@
-// let usernumber =document.querySelector(".inputt")
-// let buttt = document.querySelector(".reb")
-// let vall= usernumber.innerHTML
-// let clutt = ""
-
-// let game_number =10
-
-// buttt.addEventListener("click" , function(){
-
-//     while (vall != game_number) {
-//         // clutt+= `  <div class="wrr"><p>WRONG NUMBER</p></div>`
-//         console.log("poka")
-//     }
-
-// clutt+= `  <div class="wrr"><p>YOU WON ${usernumber}</p></div>`
-// })
 
 
 
