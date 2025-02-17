@@ -1,3 +1,4 @@
+//script h number gussening games ki
 //ok sir theek he
 //salam bhai kese he ap log
 //ok bhai theek he sab
