@@ -1,5 +1,5 @@
 //salam bhai kese he ap log
-
+//ok bhai theek he sab
 
 const inputField = document.querySelector(".inputt");
 const checkButton = document.querySelector(".reb");
